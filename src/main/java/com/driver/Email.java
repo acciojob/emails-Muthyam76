@@ -47,4 +47,12 @@ public class Email {
 
         }
     }
+
+    public void setEmailId(String emailId) {
+        this.emailId = emailId;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
 }
